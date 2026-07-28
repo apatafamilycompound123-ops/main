@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/67-database-migrations",
+    "fix/86-timelocked-verifier",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/67-database-migrations": "main",
+    "fix/86-timelocked-verifier": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/67-database-migrations",
+    "fix/86-timelocked-verifier",
+    "origin"
+  ]
+}
